@@ -1,1 +1,1 @@
- python orangeHrm\demo1.py 
+ python demo1.py 
